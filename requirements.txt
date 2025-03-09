@@ -6,4 +6,5 @@ seaborn
 nltk
 scikit-learn
 wordcloud
+plotly
 
